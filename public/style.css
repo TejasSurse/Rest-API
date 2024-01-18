@@ -1,0 +1,30 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    color: gray;
+}
+.content{
+    color: black;
+}
+a{
+   text-decoration: none;
+   color: white;
+   font-weight: 500;
+   background-color: brown;
+   border: 2px solid blanchedalmond;
+   border-radius: 20%;
+   padding: 2px;
+}
+
+button{
+    margin-top: 30px;
+    background-color: brown;
+    border: 2px solid blanchedalmond;
+    color: white;
+    border-radius: 20%;
+    padding: 2px;
+}
